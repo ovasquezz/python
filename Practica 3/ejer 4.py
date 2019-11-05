@@ -1,0 +1,5 @@
+a=float(input("Escriba una nota: "))
+b=float(input("Escriba otra nota: "))
+c=float(input("Escriba otra nota: "))
+m=((a+b+c)/3)
+print("La media de las 3 notas es: ",m)
