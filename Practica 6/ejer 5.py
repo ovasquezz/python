@@ -24,8 +24,6 @@ while a<=b:
 print(f"La lista de palabras es:",end=' ')
 
 for i in l:
-    print (i,end='')
-    if i!=(len(l)):
-        print(end=', ')
-    else:
-        print(end='.')
+    print(i,end=' ')
+
+   
