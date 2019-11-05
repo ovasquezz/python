@@ -1,6 +1,0 @@
-a=float(7.98)
-b=str("hola")
-c=int(8)
-print("A es: ",type(a))
-print("B es: ",type(b))
-print("C es: ",type(c))
