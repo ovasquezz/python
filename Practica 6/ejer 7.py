@@ -4,7 +4,7 @@ Escribe límite: 50
 Escribe un valor: 10
 Escribe otro valor: 25
 Escribe otro valor: 7
-Escribe otro valor: 14 me cago en todo
+Escribe otro valor: 14
 El límite a superar es 50. La lista creada es 10, 25, 7, 14 ya que la suma de estos números es: 56
 """
 l=[]
